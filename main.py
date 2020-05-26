@@ -1,4 +1,3 @@
 #teste
 #eduardo
-jkjklnlkn
-çlkjlç
+print('A tinha e pertubada muito pertubada')
